@@ -1,0 +1,13 @@
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.exe
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.deps.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.dev.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.AssemblyReference.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfoInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfo.cs
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Welcome\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.genruntimeconfig.cache
