@@ -1,0 +1,13 @@
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\bin\Debug\netcoreapp3.1\AnonymousIncome.exe
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\bin\Debug\netcoreapp3.1\AnonymousIncome.deps.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\bin\Debug\netcoreapp3.1\AnonymousIncome.runtimeconfig.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\bin\Debug\netcoreapp3.1\AnonymousIncome.runtimeconfig.dev.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\bin\Debug\netcoreapp3.1\AnonymousIncome.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\bin\Debug\netcoreapp3.1\AnonymousIncome.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.csproj.AssemblyReference.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.AssemblyInfoInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.AssemblyInfo.cs
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.csproj.CoreCompileInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AnonymousIncome\AnonymousIncome\AnonymousIncome\obj\Debug\netcoreapp3.1\AnonymousIncome.genruntimeconfig.cache
