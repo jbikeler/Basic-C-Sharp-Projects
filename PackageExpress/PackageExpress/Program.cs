@@ -21,7 +21,7 @@ namespace PackageExpress
                 int height = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("What is the length of your package?");
                 int length = Convert.ToInt32(Console.ReadLine());
-                if (width > 50 || height > 50 || length > 50) // is package small enough?
+                if ((width + height + length) > 50) // is package small enough?
                 {
                     Console.WriteLine("Package too big to be shipped via Package Express.");
                 }
