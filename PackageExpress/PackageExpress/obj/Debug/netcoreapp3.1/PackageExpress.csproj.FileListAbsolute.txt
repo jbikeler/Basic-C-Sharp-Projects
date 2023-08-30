@@ -1,0 +1,13 @@
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.exe
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.deps.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.runtimeconfig.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.runtimeconfig.dev.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.csproj.AssemblyReference.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.AssemblyInfoInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.AssemblyInfo.cs
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.csproj.CoreCompileInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.genruntimeconfig.cache
