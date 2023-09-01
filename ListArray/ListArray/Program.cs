@@ -25,7 +25,7 @@ namespace ListArray
             int[] numbers = { 5, 98, 8, 40, 82 }; //create array
             Console.WriteLine("Choose a number. (Type 0-4)"); //ask user for input
             int myNum = Convert.ToInt32(Console.ReadLine()); //get input
-            if (myNum < names.Length && myNum >= 0) //check input is valid
+            if (myNum < numbers.Length && myNum >= 0) //check input is valid
             {
                 Console.WriteLine("Your number is: " + numbers[myNum]); //print number
             }
@@ -43,7 +43,7 @@ namespace ListArray
             myList.Add("Five");
             Console.WriteLine("Choose another number. (Type 0-4)"); //ask user for input
             int myInput = Convert.ToInt32(Console.ReadLine()); //get input
-            if (myInput < names.Length && myInput >= 0) //check input is valid
+            if (myInput < myList.Count && myInput >= 0) //check input is valid
             {
                 Console.WriteLine("Your number is: " + myList[myInput]); //print string
             }
