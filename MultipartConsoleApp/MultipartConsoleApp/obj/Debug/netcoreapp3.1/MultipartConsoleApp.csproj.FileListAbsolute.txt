@@ -1,0 +1,13 @@
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\bin\Debug\netcoreapp3.1\MultipartConsoleApp.exe
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\bin\Debug\netcoreapp3.1\MultipartConsoleApp.deps.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\bin\Debug\netcoreapp3.1\MultipartConsoleApp.runtimeconfig.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\bin\Debug\netcoreapp3.1\MultipartConsoleApp.runtimeconfig.dev.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\bin\Debug\netcoreapp3.1\MultipartConsoleApp.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\bin\Debug\netcoreapp3.1\MultipartConsoleApp.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\obj\Debug\netcoreapp3.1\MultipartConsoleApp.csproj.AssemblyReference.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\obj\Debug\netcoreapp3.1\MultipartConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\obj\Debug\netcoreapp3.1\MultipartConsoleApp.AssemblyInfo.cs
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\obj\Debug\netcoreapp3.1\MultipartConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\obj\Debug\netcoreapp3.1\MultipartConsoleApp.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\obj\Debug\netcoreapp3.1\MultipartConsoleApp.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MultipartConsoleApp\MultipartConsoleApp\obj\Debug\netcoreapp3.1\MultipartConsoleApp.genruntimeconfig.cache
