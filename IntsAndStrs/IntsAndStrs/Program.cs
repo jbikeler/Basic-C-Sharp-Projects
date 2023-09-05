@@ -15,7 +15,7 @@ namespace IntsAndStrs
                 int myDividend = Convert.ToInt32(Console.ReadLine()); // convert str to int
                 foreach (int number in intList)
                 {
-                    float answer = (float)number / (float)myDividend; // cast to float and divide
+                    int answer = number / myDividend; // cast to float and divide
                     Console.WriteLine(answer); // print answer
                 }
             }
