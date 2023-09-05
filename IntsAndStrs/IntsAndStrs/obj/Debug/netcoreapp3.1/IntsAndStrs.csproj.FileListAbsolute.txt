@@ -1,0 +1,13 @@
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\bin\Debug\netcoreapp3.1\IntsAndStrs.exe
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\bin\Debug\netcoreapp3.1\IntsAndStrs.deps.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\bin\Debug\netcoreapp3.1\IntsAndStrs.runtimeconfig.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\bin\Debug\netcoreapp3.1\IntsAndStrs.runtimeconfig.dev.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\bin\Debug\netcoreapp3.1\IntsAndStrs.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\bin\Debug\netcoreapp3.1\IntsAndStrs.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\obj\Debug\netcoreapp3.1\IntsAndStrs.csproj.AssemblyReference.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\obj\Debug\netcoreapp3.1\IntsAndStrs.AssemblyInfoInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\obj\Debug\netcoreapp3.1\IntsAndStrs.AssemblyInfo.cs
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\obj\Debug\netcoreapp3.1\IntsAndStrs.csproj.CoreCompileInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\obj\Debug\netcoreapp3.1\IntsAndStrs.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\obj\Debug\netcoreapp3.1\IntsAndStrs.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\IntsAndStrs\IntsAndStrs\obj\Debug\netcoreapp3.1\IntsAndStrs.genruntimeconfig.cache
