@@ -1,0 +1,13 @@
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.exe
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.deps.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.runtimeconfig.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.runtimeconfig.dev.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.csproj.AssemblyReference.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.AssemblyInfoInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.AssemblyInfo.cs
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.genruntimeconfig.cache
