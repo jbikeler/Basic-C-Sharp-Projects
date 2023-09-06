@@ -24,6 +24,7 @@ namespace MainMethod
             return newInt;
         }
 
+        // Method Assignment - Making an optional parameter
         public int method2(int number1, int number2 = 1) //if user does not enter 2 numbers use 1
         {
             int newInt = number1 * number2; // multiply user numbers together
