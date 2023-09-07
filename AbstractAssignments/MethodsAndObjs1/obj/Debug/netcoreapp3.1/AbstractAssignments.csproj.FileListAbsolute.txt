@@ -1,0 +1,12 @@
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AbstractAssignments\MethodsAndObjs1\bin\Debug\netcoreapp3.1\AbstractAssignments.exe
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AbstractAssignments\MethodsAndObjs1\bin\Debug\netcoreapp3.1\AbstractAssignments.deps.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AbstractAssignments\MethodsAndObjs1\bin\Debug\netcoreapp3.1\AbstractAssignments.runtimeconfig.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AbstractAssignments\MethodsAndObjs1\bin\Debug\netcoreapp3.1\AbstractAssignments.runtimeconfig.dev.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AbstractAssignments\MethodsAndObjs1\bin\Debug\netcoreapp3.1\AbstractAssignments.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AbstractAssignments\MethodsAndObjs1\bin\Debug\netcoreapp3.1\AbstractAssignments.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AbstractAssignments\MethodsAndObjs1\obj\Debug\netcoreapp3.1\AbstractAssignments.AssemblyInfoInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AbstractAssignments\MethodsAndObjs1\obj\Debug\netcoreapp3.1\AbstractAssignments.AssemblyInfo.cs
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AbstractAssignments\MethodsAndObjs1\obj\Debug\netcoreapp3.1\AbstractAssignments.csproj.CoreCompileInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AbstractAssignments\MethodsAndObjs1\obj\Debug\netcoreapp3.1\AbstractAssignments.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AbstractAssignments\MethodsAndObjs1\obj\Debug\netcoreapp3.1\AbstractAssignments.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\AbstractAssignments\MethodsAndObjs1\obj\Debug\netcoreapp3.1\AbstractAssignments.genruntimeconfig.cache
