@@ -1,0 +1,13 @@
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\bin\Debug\netcoreapp3.1\Polymorphism1.exe
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\bin\Debug\netcoreapp3.1\Polymorphism1.deps.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\bin\Debug\netcoreapp3.1\Polymorphism1.runtimeconfig.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\bin\Debug\netcoreapp3.1\Polymorphism1.runtimeconfig.dev.json
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\bin\Debug\netcoreapp3.1\Polymorphism1.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\bin\Debug\netcoreapp3.1\Polymorphism1.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\obj\Debug\netcoreapp3.1\Polymorphism1.csproj.AssemblyReference.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\obj\Debug\netcoreapp3.1\Polymorphism1.AssemblyInfoInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\obj\Debug\netcoreapp3.1\Polymorphism1.AssemblyInfo.cs
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\obj\Debug\netcoreapp3.1\Polymorphism1.csproj.CoreCompileInputs.cache
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\obj\Debug\netcoreapp3.1\Polymorphism1.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\obj\Debug\netcoreapp3.1\Polymorphism1.pdb
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\Polymorphism1\Polymorphism1\obj\Debug\netcoreapp3.1\Polymorphism1.genruntimeconfig.cache
