@@ -10,9 +10,7 @@ namespace AbstractAssignments
         public string FirstName;
         public string LastName;
 
-        public void SayName() // Give this class a void method called SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName); // write the person's full name to the console
-        }
+        public abstract void SayName(); // Give this class a void method called SayName()
+
     }
 }
