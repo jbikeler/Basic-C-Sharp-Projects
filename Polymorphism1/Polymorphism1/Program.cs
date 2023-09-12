@@ -7,7 +7,7 @@ namespace Polymorphism1
         static void Main(string[] args)
         {
             Console.WriteLine("Employer: \nName your demands.");
-            Employee myEmployee = new Employee();
+            IQuittable myEmployee = new Employee();
             Console.WriteLine("Employee:");
             myEmployee.Quit();
         }
