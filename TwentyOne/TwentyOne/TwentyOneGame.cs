@@ -10,10 +10,14 @@ namespace TwentyOne
         public override void Play()
         {
             Dealer = new TwentyOneDealer();
-            foreach (Player player in Players);
+            foreach (Player player in Players)
             {
-                
+                player.Hand = new List<Card>();
+                player.Stay = false;
             }
+            Dealer.Hand = new List<Card>();
+            Dealer.Stay = false;
+            Dealer.Deck = new Deck();
         }
 
         public void WalkAway(Player player)
