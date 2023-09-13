@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TwentyOne
 {
-    class Deck
+    public class Deck
     {
         public Deck()
         {
@@ -14,8 +14,8 @@ namespace TwentyOne
                 for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.Face = (Face)j;
-                    card.Suit = (Suit)i;
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)j;
                     Cards.Add(card);
                 }
             }
