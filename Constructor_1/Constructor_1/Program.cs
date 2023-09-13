@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Constructor_1
 {
@@ -6,7 +7,9 @@ namespace Constructor_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            const string path = @"C:\Users\user\Desktop"; // Create a const variable
+            var myVar = new Dictionary<string, string>();
+
         }
     }
 }
