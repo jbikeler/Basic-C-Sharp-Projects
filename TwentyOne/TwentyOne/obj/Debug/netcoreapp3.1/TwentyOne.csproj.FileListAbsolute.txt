@@ -14,3 +14,9 @@ C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\TwentyOne\TwentyOn
 C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.dll
 C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.pdb
 C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CopyComplete
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jbike\LocalMyDocs\DevProjects\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
