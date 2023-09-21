@@ -1,0 +1,11 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Hello World</h1>
+    <h2>Welcome to the website that tells you the current time.</h2> <!-- Customize the CSHTML <h2> element -->
+    <p>It is now @ViewData["NowTime"]</p> <!-- display the actual server time in the browser -->
+</div>
